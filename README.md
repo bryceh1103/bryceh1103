@@ -1,16 +1,17 @@
-## Hi there 👋
+Education – 
+Reynolds Community College, Richmond, Virginia 
+Associates in Computer Science 
+Old Dominion University, Norfolk, Virginia 
+Bachelor of Science in Computer Science (In Progress) 
+Expected Graduation: 2027
 
-<!--
-**bryceh1103/bryceh1103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Languages – 
+Python (Basic) 
+Java (Beginner) 
+C++ (Beginner) 
+LUA (Basic)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Interest - 
+Video games
+learning skills
+game development practice
